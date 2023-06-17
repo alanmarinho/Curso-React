@@ -1,0 +1,10 @@
+.esqueci{    
+    
+    color: #426b65;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.esqueci:hover{
+    text-decoration: underline;
+}

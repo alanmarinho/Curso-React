@@ -1,0 +1,14 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+}
+
+h3{
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  transform: translateX(-50%);
+  text-align: center;
+  width: 100%;
+}
+

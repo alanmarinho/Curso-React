@@ -1,0 +1,13 @@
+.cadastro{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: #426b65;
+}
+
+a:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
